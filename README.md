@@ -5,7 +5,8 @@ AEB "pronounced Abe": the Acronym Expander Bot
 
 ```bash
 ./abe.py "LGTM"
-
+```
+```console
 ,-----------------------------------.
 | Back in my day LGTM stood for     |
 | loses  gripes  thoroughest        |
